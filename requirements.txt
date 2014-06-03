@@ -1,0 +1,6 @@
+httplib2==0.9
+ipaddr==2.1.11
+oauth2==1.5.211
+simplegeo==3.0.127
+simplejson==3.5.2
+wsgiref==0.1.2
